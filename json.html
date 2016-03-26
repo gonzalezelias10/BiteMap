@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery.getJSON demo</title>
+  <style>
+  img {
+    height: 100px;
+    float: left;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+ 
+
+ 
+<script>
+$(document).ready(function() {
+  var flickerAPI = "https://api.locu.com/v1_0/venue/search/?cuisine=Mexican&api_key=99094c60059c71e8aeb0cf007ad43db6fe8bf27e";
+ 
+ $.getJSON(flickerAPI, function(data){
+			console.log(meta)
+		})
+    
+    });
+
+</script>
+ 
+</body>
+</html>
+<!-- <!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>JSON</title>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+</head>
+
+<body>
+ 	<script type="text/javascript">
+		$.getJSON('external.json', function(data){
+			console.log(data.total)
+		})
+	</script>
+
+ 
+
+ </body>
+</html> -->

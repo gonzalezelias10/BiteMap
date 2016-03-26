@@ -1,0 +1,174 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.20647594000000424, 
+            "longitude_delta": 0.15644027025945206
+        }, 
+        "center": {
+            "latitude": 38.9565317, 
+            "longitude": -77.1583840137543
+        }
+    }, 
+    "total": 3, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/ipic-theaters-north-bethesda-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=S5qvEt5lw1q3p0eAsRWWYg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 429, 
+            "name": "iPic Theaters", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/ipic-theaters-north-bethesda-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=S5qvEt5lw1q3p0eAsRWWYg", 
+            "categories": [
+                [
+                    "Cinema", 
+                    "movietheaters"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "phone": "3012312300", 
+            "snippet_text": "iPic is a movie theater for those with a disposable income. I like the place. It's a nice, fancy theater, but too expensive just to watch a movie. A ticket...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xfG6rMk3xWzaENelbx1jng/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/JYUz5A8AAx3cKhn9C2CmJw/ms.jpg", 
+            "display_phone": "+1-301-231-2300", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "ipic-theaters-north-bethesda-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "North Bethesda", 
+                "display_address": [
+                    "11830 Grand Park Avenue", 
+                    "North Bethesda, MD 20852"
+                ], 
+                "geo_accuracy": 9.5, 
+                "postal_code": "20852", 
+                "country_code": "US", 
+                "address": [
+                    "11830 Grand Park Avenue"
+                ], 
+                "coordinate": {
+                    "latitude": 39.0503844, 
+                    "longitude": -77.1177115
+                }, 
+                "state_code": "MD"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/angelika-film-center-and-cafe-at-mosaic-fairfax-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=S5qvEt5lw1q3p0eAsRWWYg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 273, 
+            "name": "Angelika Film Center & Cafe at Mosaic", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/angelika-film-center-and-cafe-at-mosaic-fairfax-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=S5qvEt5lw1q3p0eAsRWWYg", 
+            "categories": [
+                [
+                    "Cinema", 
+                    "movietheaters"
+                ], 
+                [
+                    "Cafes", 
+                    "cafes"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "5715123301", 
+            "snippet_text": "Favorite movie theater hands down! This place has it all: reserved seats, a bar, coffee, great concessions, board games in the waiting area. My personal...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Dvhc7SufNCiVnlQ25KmUGQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/IQqZrxeKvgNqQGh37Z3Zmg/ms.jpg", 
+            "display_phone": "+1-571-512-3301", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "angelika-film-center-and-cafe-at-mosaic-fairfax-5", 
+            "is_closed": false, 
+            "location": {
+                "city": "Fairfax", 
+                "display_address": [
+                    "2911 District Ave", 
+                    "Merrifield", 
+                    "Fairfax, VA 22031"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Merrifield", 
+                    "Mosaic"
+                ], 
+                "postal_code": "22031", 
+                "country_code": "US", 
+                "address": [
+                    "2911 District Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 38.8719727660577, 
+                    "longitude": -77.2294932275086
+                }, 
+                "state_code": "VA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/arlington-cinema-and-drafthouse-arlington-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=S5qvEt5lw1q3p0eAsRWWYg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 378, 
+            "name": "Arlington Cinema & Drafthouse", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/arlington-cinema-and-drafthouse-arlington-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=S5qvEt5lw1q3p0eAsRWWYg", 
+            "categories": [
+                [
+                    "Cinema", 
+                    "movietheaters"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Performing Arts", 
+                    "theater"
+                ]
+            ], 
+            "phone": "7034862345", 
+            "snippet_text": "I love the Drafthouse, as it tends to be known. Sure, it's not the best food or the nicest movie theater, but the service has always been fantastic, the...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/P478b0p4cmiEcmi9Kr52bA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/1ldHbMFlo_uFkBdjxPZZ2g/ms.jpg", 
+            "display_phone": "+1-703-486-2345", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "arlington-cinema-and-drafthouse-arlington-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Arlington", 
+                "display_address": [
+                    "2903 Columbia Pike", 
+                    "Columbia Heights", 
+                    "Arlington, VA 22204"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Columbia Heights"
+                ], 
+                "postal_code": "22204", 
+                "country_code": "US", 
+                "address": [
+                    "2903 Columbia Pike"
+                ], 
+                "coordinate": {
+                    "latitude": 38.8626404, 
+                    "longitude": -77.0873032
+                }, 
+                "state_code": "VA"
+            }
+        }
+    ]
+}
